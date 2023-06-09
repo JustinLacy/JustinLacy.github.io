@@ -1,7 +1,7 @@
 ---
 layout: page
 title: New
-permalink: /New/
+permalink: /new/
 ---
 
 Some information about you!
