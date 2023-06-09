@@ -1,8 +1,8 @@
-----
+---
 layout: page
 title: New
 permalink: /new/
-----
+---
 
 Some information about you!
 
