@@ -1,4 +1,5 @@
 ---
+layout: post
 title: New post attempt
 ---
 
