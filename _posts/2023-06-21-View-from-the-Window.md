@@ -10,6 +10,6 @@ The turbulent wind
 
 The swiftly swaying branches
 
-Water pours from the sky
+Rain pours from the sky
 
 ![_config.yml]({{ site.baseurl }}/images/IMG_1753.jpg)
