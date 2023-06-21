@@ -6,10 +6,10 @@ categories: Haiku
 tags: [Haiku]
 ---
 
-The turbulent wind
+Turbulent is wind
 
-The swiftly swaying branches
+Tugging branches to and fro 
 
-Rain pours from the sky
+Tears pour from the sky
 
 ![_config.yml]({{ site.baseurl }}/images/IMG_1753.jpg)
