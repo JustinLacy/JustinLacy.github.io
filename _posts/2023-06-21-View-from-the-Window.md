@@ -12,4 +12,4 @@ The swiftly swaying branches
 
 Water pours from the sky
 
-![_config.yml]({{ site.baseurl }}/images/IMG_1753.HEIC)
+![_config.yml]({{ site.baseurl }}/images/IMG_1753.jpg)
