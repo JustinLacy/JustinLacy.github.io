@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Test to see if I can edit correctly
+date: '2014-03-03'
+categories: Introduction
+tags: [Intro]
 ---
 
 # If this works I will be happy.
