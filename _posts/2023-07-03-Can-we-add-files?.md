@@ -6,6 +6,6 @@ categories: Test
 tags: [Test]
 ---
 
-I wonder if this will open up the sheet
+I wonder if this will open up the [sheet][1]
 
-![_config.yml]({{ site.baseurl }}/images/ASW_Averages.xlsx)
+[1]:({{ site.baseurl }}/_download/ASW_Averages.xlsx)
