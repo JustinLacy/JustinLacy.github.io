@@ -8,4 +8,4 @@ tags: [Test]
 
 I wonder if this will open up the [sheet][1]
 
-[1]:{{ site.url }}/ASW_Averages.zip
+[1]:{{ site.url }}/download/ASW_Averages.zip
